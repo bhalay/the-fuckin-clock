@@ -3,3 +3,5 @@
 nav button svg{display:block;margin:0 auto 5px;width:28px;height:28px;pointer-events:none}nav button small{pointer-events:none}
 
 .roast{color:#ff9f0a;font-weight:700;line-height:1.5;min-height:2.5em}
+
+header h1{font-size:clamp(24px,7vw,36px);line-height:1.12;min-width:0;overflow-wrap:normal}header #settings{flex-shrink:0}
